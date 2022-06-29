@@ -8,14 +8,19 @@ he will see It is stored in cookies or not, if uh, he will enter it on the home 
 Register Page:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/176442475-f20c2a27-1ff3-4f55-a4ea-22782b3479a5.png" width="900" height="450" />
+<img src="https://user-images.githubusercontent.com/76782050/176442475-f20c2a27-1ff3-4f55-a4ea-22782b3479a5.png" width="800" height="400" />
 </br>
-<img src="https://user-images.githubusercontent.com/76782050/176442583-b42eb7c5-43d3-4c67-818b-fcc16c3d97cd.png" width="900" height="450" />
+<img src="https://user-images.githubusercontent.com/76782050/176442583-b42eb7c5-43d3-4c67-818b-fcc16c3d97cd.png" width="800" height="400" />
 </p>
 
 
 Login Page : 
-https://user-images.githubusercontent.com/76782050/176444696-79c76fd8-6a7c-4866-a1f4-17d7eb33543e.PNG
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76782050/176445607-940946df-a40e-4a5d-b2ec-33afff90cdcf.png" width="800" height="400" />
+</br>
+<img src="https://user-images.githubusercontent.com/76782050/176445629-aece5fcf-e282-401e-9185-d05ee0dea600.png" width="800" height="400" />
+</p>
+
 
 Home Page :
 
@@ -27,7 +32,7 @@ Home Page :
 Search for car :
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/176444696-79c76fd8-6a7c-4866-a1f4-17d7eb33543e.PNG" width="900" height="600" />
+<img src="https://user-images.githubusercontent.com/76782050/176444696-79c76fd8-6a7c-4866-a1f4-17d7eb33543e.PNG" width="900" height="450" />
 </p>
 
 
